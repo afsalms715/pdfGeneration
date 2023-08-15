@@ -1,0 +1,12 @@
+#pdf-content{
+    width: 210px;
+    height: 297px;
+    border: 1px solid red;
+    text-align: center;
+}
+
+.shelftag{
+    background-color: red;
+    border: 1px solid black;
+    height: 49.3px;
+}
