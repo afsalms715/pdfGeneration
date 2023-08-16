@@ -1,12 +1,29 @@
 #pdf-content{
-    width: 210px;
-    height: 297px;
-    border: 1px solid red;
-    text-align: center;
+}
+
+#grandlogo{
+    border-radius: 50px;
 }
 
 .shelftag{
-    background-color: red;
-    border: 1px solid black;
-    height: 49.3px;
+    width: 210px;
+    height: 297px;
+    display: flex;
+}
+
+.vertical-text {   
+    writing-mode: vertical-rl;
+    margin-top:235px;
+}
+.block{
+    height:297px;
+    width:34.8px;  
+}
+
+
+
+#pdf-image{
+    display:flex;
+    width: 210px;
+    border:1px solid red;
 }
